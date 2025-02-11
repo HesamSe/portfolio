@@ -17,8 +17,11 @@ export default function Page() {
       </a>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          I am a full-stack JavaScript developer with over 6 years of experience in developing web applications on
-          both frontend and backend.
+            <b>Hey, I'm Hesam Seyf</b> <br/>
+            I build things for the web—frontend and backend.
+            I’ve been a software developer for over six years, working with JavaScript, React, and other modern web technologies. <br/>
+            I love architecture principles such as clean architecture and DDD. <br/><br/>
+            While I'm not coding, you probably find me in book stores or hiking. Sometimes I write stuff about development in my <a href='https://medium.com/@hesam.seyf' target='_blank'>Medium</a> account.
         </p>
       </div>
     </section>
