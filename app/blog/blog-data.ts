@@ -30,10 +30,4 @@ export default [
         publishedDate: new Date("2025-02-10T06:31:45.720Z"),
         source: 'https://medium.com/@hesam.seyf/a-journey-from-monolith-to-monorepo-a525e6d21ccd',
     },
-    {
-        title: "A Journey from Monolith to Monorepo",
-        summary: "How We Migrated to a Monorepo and Never Looked Back",
-        publishedDate: new Date("2025-02-10T06:31:45.720Z"),
-        source: 'https://medium.com/@hesam.seyf/a-journey-from-monolith-to-monorepo-a525e6d21ccd',
-    },
 ] satisfies Blog[];
